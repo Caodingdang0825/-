@@ -1,0 +1,21 @@
+# WorkBuddy 项目数据目录，不纳入版本控制
+.workbuddy-ai/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 依赖与构建产物
+node_modules/
+dist/
+build/
+*.log
+
+# 环境变量与密钥
+.env
+.env.local
+*.pem
+*.key
